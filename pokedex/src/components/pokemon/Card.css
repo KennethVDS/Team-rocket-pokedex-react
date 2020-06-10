@@ -1,0 +1,14 @@
+Card {
+    text-decoration: none;
+    &:focus,
+    &:hover,
+    &:visited,
+    &:link,
+    &:active {
+        text-decoration: none;
+        }
+    -moz-user-select: none;
+    -website-user-select: none;
+    -user-select: none;
+    -o-user-select: none;
+}

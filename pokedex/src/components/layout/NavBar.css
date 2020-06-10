@@ -1,0 +1,12 @@
+* {
+    margin-bottom: 0;
+    display: inline-flexbox;
+}
+img {
+    width: 30vw;
+    height: auto;
+    position: relative;
+    float: right;
+    display: inline-block;
+    margin: auto;
+}
